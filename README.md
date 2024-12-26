@@ -10,7 +10,7 @@
 ping -c 3 www.baidu.com
 if [ $? -ne 0 ]; then
     clear
-    echo "Internet not work, please try later."
+    echo "网络不通，无法安装。请稍后再试。"
     exit 1
 fi
 clear
