@@ -1,3 +1,8 @@
+> 本人该课程已经结课，故对该存储库归档且不再接受任何Pull Request与Issues。
+> 
+> Beacuse of the ending of this course in person, so this repo is achieved and not recept any PRs and Issues.
+> 
+
 # 头歌计算机网络闯关脚本
 
 只需要运行shell脚本然后点击“评测”即可闯关。仅适用于头歌的“计算机网络”课程。
